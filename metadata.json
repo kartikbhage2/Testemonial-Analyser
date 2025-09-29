@@ -1,0 +1,5 @@
+{
+  "name": "Dealer Testimonial Analyzer",
+  "description": "An application to transcribe, translate, and analyze audio testimonials from dealers, producing a structured, report-style output with sentiment analysis and key insights.",
+  "requestFramePermissions": []
+}
